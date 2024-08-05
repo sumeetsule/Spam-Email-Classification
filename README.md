@@ -1,0 +1,2 @@
+# Spam Email Classification Project
+<p>Developed a spam email classifier using Scikit-learn's ‘CountVectorizer’ with a Naïve Bayes approach, achieving 98.74% accuracy. Validated the model with public datasets and personal email.</p>
